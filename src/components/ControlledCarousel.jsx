@@ -8,39 +8,52 @@ function MySlider() {
             <Carousel.Item>
                <img
                   className='d-block w-100'
-                  src='https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+                  src='https://wallpapersmug.com/download/1920x1080/426339/town-coast-mountains-norway.jpg'
                   alt='First slide'
                   style={{ objectFit: 'cover', height: '100vh' }}
                />
                <Carousel.Caption>
-                  <h3>First slide label</h3>
-                  <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                  <h3>Norway</h3>
+                  <p>Beautiful fiords and landscapes.</p>
                </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
                <img
                   className='d-block w-100'
-                  src='https://images.unsplash.com/photo-1501884742805-c94fc1d8985b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+                  src='https://wallpapercat.com/w/full/b/4/d/625562-2000x1245-desktop-hd-ireland-background-image.jpg'
                   alt='Second slide'
                   style={{ objectFit: 'cover', height: '100vh' }}
                />
                <Carousel.Caption>
-                  <h3>Second slide label</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                  <h3>Ireland</h3>
+                  <p>Beer and landscapes.</p>
                </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
                <img
                   className='d-block w-100'
-                  src='https://images.unsplash.com/photo-1499162526249-f5b8b9ba9923?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+                  src='https://images.unsplash.com/photo-1496661274775-a86a124b9df3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvbGFuZHxlbnwwfHwwfHx8MA%3D%3D'
                   alt='Third slide'
                   style={{ objectFit: 'cover', height: '100vh' }}
                />
                <Carousel.Caption>
-                  <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                  <h3>Poland</h3>
+                  <p>Forests and kind people.</p>
                </Carousel.Caption>
             </Carousel.Item>
+            <Carousel.Item>
+               <img
+                  className='d-block w-100'
+                  src='https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?cs=srgb&dl=pexels-chaitaastic-2031706.jpg&fm=jpg'
+                  alt='Third slide'
+                  style={{ objectFit: 'cover', height: '100vh' }}
+               />
+               <Carousel.Caption>
+                  <h3>Netherlands</h3>
+                  <p>Roses and lawns.</p>
+               </Carousel.Caption>
+            </Carousel.Item>
+            
          </Carousel>
       </Container>
    )

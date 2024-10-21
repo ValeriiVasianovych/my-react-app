@@ -18,8 +18,6 @@ function BasicExample() {
               <NavDropdown.Item href="#action/3.2">Poland</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.3">Ireland</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.4">Netherlands</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.5">Italy</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.5">France</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
