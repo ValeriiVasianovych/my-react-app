@@ -5,16 +5,18 @@ import ControlledCarousel from './components/ControlledCarousel'
 import BasicExample from './components/Navbar'
 import CardExample from './components/Card'
 import WithHeaderAndQuoteExample from './components/Footer'
+import Todoapp from './components/todo-app/Todoapp'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <BasicExample />
+      {/* <BasicExample />
       <ControlledCarousel />
       <CardExample />
-      <WithHeaderAndQuoteExample />
+      <WithHeaderAndQuoteExample /> */}
+      <Todoapp/>
+      {/* <div className='h-10 w-10'>123</div> */}
     </>
   )
 }
