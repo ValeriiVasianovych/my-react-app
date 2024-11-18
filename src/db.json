@@ -1,0 +1,30 @@
+{
+  "cars": [
+    {
+      "id": "3",
+      "brand": "Toyota",
+      "model": "Corolla GT-S",
+      "year": 2023,
+      "owner": {
+        "name": "Eduard Povierin",
+        "phone": "+1-234-567-8902",
+        "email": "edpovierin@gmail.com"
+      },
+      "color": "White",
+      "image": "https://www.motortrend.com/files/6671c65a8a1ab700085d01f9/004-best-toyota-sports-cars-supra-a60-white-side.jpg?w=768&width=768&q=75&format=webp"
+    },
+    {
+      "id": "7efb",
+      "brand": "Toyota",
+      "model": "Supercar",
+      "year": "1998",
+      "color": "Pink",
+      "image": "https://i.redd.it/7gmk49aw29b71.jpg",
+      "owner": {
+        "name": "Eduard",
+        "phone": "+48731505616",
+        "email": "edpovierin@gmail.com"
+      }
+    }
+  ]
+}
